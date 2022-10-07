@@ -1,0 +1,18 @@
+{
+    "name": "com.mocheng.rvo",
+    "version": "1.0.0",
+    "displayName": "MoChengRvo",
+    "description": "rvo",
+    "unity": "2022.2",
+
+    "dependencies": {
+   
+    },
+    "keywords": [],
+    "author": {
+      "name": "mocheng",
+      "email": "mochenghh@gmail.com"
+    },
+    "hideInEditor": false,
+    "type": "tool"
+  }
